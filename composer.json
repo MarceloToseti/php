@@ -1,0 +1,10 @@
+{
+    "name": "admin/php-project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\PhpProject\\": "src/"
+        }
+    },
+    "require": {}
+}
